@@ -1,0 +1,8 @@
+The operator used to get value at address stored in a pointer variable is
+*
+How would you round off a value from 1.66 to 2.0?
+ceil(1.66)
+By default a real number is treated as a
+double
+Input/output function prototypes and macros are defined in which header file?
+stdio.h

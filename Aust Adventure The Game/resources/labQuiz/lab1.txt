@@ -1,0 +1,8 @@
+What is the maximum range for an integer?
+32767
+The function to determine the size of any data type is
+sizeof()
+How many primitive data types are availabe in java?
+8
+a=20%3   what will be the value of a?
+2

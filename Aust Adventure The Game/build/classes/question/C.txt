@@ -1,0 +1,30 @@
+What is the format specifier for a string?
+%c
+%d
+%s
+%f
+c
+Generally how many types of loops are there in C?
+2 Types
+3 Types
+4 Types
+5 Types
+b
+What is the ASCII code for a?
+107
+65
+97
+85
+c
+Many features of C were derived from an earlier language calle
+B
+PASCAL
+FORTRAN
+BASIC
+a
+printf is called by which header file?
+stdio.h
+conio.h
+string.h
+stdlih
+a

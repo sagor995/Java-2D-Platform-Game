@@ -1,0 +1,8 @@
+Which function is used to determine string length?
+strlen()
+The function to randomize any data is 
+rand()
+%d is called ____ of integer 
+format specifier
+a=strlen(b) what is the data type of a?
+int

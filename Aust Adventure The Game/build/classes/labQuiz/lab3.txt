@@ -1,0 +1,8 @@
+what is the ASCII code of x?
+120
+what is the ASCII code of A?
+65
+The binary equivalent of 50 is,
+110010
+Which header file should be included to use functions like malloc() and calloc()?
+stdlib.h

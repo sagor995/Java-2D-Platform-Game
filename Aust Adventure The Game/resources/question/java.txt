@@ -1,0 +1,30 @@
+How many types of access modifier are there?
+2
+3
+4
+5
+c
+What cannot be defined as protected?
+method
+constructor
+class
+variable
+c
+Method overloading is
+polymorphism
+encapsulation
+inheritance
+abstraction
+a
+Which doesnt require any return value?
+method
+constructor
+main method
+object
+b
+one object acquires all the properties and behaviors of parent object is called
+encapsulation
+polymorphism
+inheritance
+abstraction
+c

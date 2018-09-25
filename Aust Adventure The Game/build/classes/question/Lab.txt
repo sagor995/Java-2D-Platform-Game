@@ -1,0 +1,30 @@
+Do you like this Game?
+yes
+no
+confused
+prefer not to answer
+a
+What is the best part about this game?
+everything
+nothing
+canteen
+questions
+a
+In which programming language the game is created?
+c
+c++
+java
+python
+c
+in which part of this game need some improvement?
+everypart
+canteen
+questions
+pattern
+d
+Rating?
+100
+70
+50
+90
+b

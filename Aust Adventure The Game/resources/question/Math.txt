@@ -1,0 +1,30 @@
+﻿What is the differentiation of cosx?
+–sinx
+sinx
+cosx
+–cosx
+a
+∫sec2xdx = ?
+tan2x
+tanx
+sin2x
+cos2x
+b
+5 x 6 x 3 = ?
+18
+15
+30
+90
+d
+There are 24 hours in one day, and 3600 seconds in one hour. How many seconds are in one day? 
+7000
+86400
+864
+72000
+b
+There are 61 boxes of pencils in a store. There are 14 pencils in each box. How many pencils are in the store? 
+854
+954
+754
+654
+a
