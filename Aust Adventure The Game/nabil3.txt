@@ -1,8 +1,0 @@
-What is your name?
-sagor
-What is your school?
-mukulika
-How are you?
-fine
-Do you know Vice City?
-yes
